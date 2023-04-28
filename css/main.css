@@ -108,12 +108,7 @@ textarea::placeholder {
     fill: white;
 }
 
-.svg-phone {
-    width: 18px;
-    height: 24px;
-    fill: black;
-}
-
+.svg-phone,
 .svg-pin,
 .svg-inst,
 .svg-email {
@@ -121,10 +116,6 @@ textarea::placeholder {
     height: 24px;
     fill: black;
 }
-
-/* .svg-email {
-    fill: #574E56;
-} */
 
 .svg-map {
     width: 23px;
@@ -363,7 +354,6 @@ textarea::placeholder {
     padding-top: 100px;
     padding-bottom: 197px;
     background-color: #574E56;
-    border: 1px solid #000000;
     color: #fff;
 }
 
