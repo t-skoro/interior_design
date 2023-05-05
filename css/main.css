@@ -21,7 +21,6 @@ html {
 body {
     margin: 0;
     padding: 0;
-
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
     line-height: 1.3;
@@ -179,7 +178,7 @@ textarea::placeholder {
 
 .header-title {
     max-width: 463px;
-    margin-bottom: 127px;
+    margin-bottom: 125px;
 }
 
 .header-title .h1 {
@@ -293,7 +292,7 @@ textarea::placeholder {
     width: 64px;
     height: 62px;
     border: 1px solid #fff;
-    transition: .5;
+    transition: .5s;
 }
 
 .slider-next:hover,
